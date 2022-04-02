@@ -1,4 +1,5 @@
-# BattleCity
+# Tank Battles
+
 Java Swing project branched from https://github.com/cl7/BattleCity
 Turned the original game into a two player 1v1 battle. 
 
