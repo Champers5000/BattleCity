@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="tanks1">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/tanks/out/artifacts/tanks_jar/tanks.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
